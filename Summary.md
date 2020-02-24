@@ -46,13 +46,13 @@ System.out.println(temp);
 
 ###### 6	内部类 
 
-![image-20200224111407142](C:\Users\杨\AppData\Roaming\Typora\typora-user-images\image-20200224111407142.png)
+![image-20200224111407142](https://github.com/Em-yang/Summary/raw/master/img/image-20200224111407142.png)
 
 ###### 7	
 
 ​	数组命名时名称与[]可以随意排列，但声明的二维数组中第一个中括号中必须要有值，它代表的是在该二维数组中有多少个一维数组。
 
-![image-20200224111630089](C:\Users\杨\AppData\Roaming\Typora\typora-user-images\image-20200224111630089.png)
+![image-20200224111630089](https://github.com/Em-yang/Summary/raw/master/img/image-20200224111630089.png)
 
 ###### 8	switch
 
