@@ -1,0 +1,1 @@
+Serializable接口是专门提供给类实现序列化用的。要实现序列化对象必须要实现 Serializable 
