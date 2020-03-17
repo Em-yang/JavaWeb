@@ -6,7 +6,7 @@ Web服务器：tomcat、JBoss、Webblogic、Jetty
 
 1 官网下载  https://tomcat.apache.org/download-90.cgi
 
-![image-20200301100857946](https://github.com/Em-yang/JavaWeb/tree/master/img/image-20200301100857946.png)
+![image-20200301100857946](https:\\github.com\Em-yang\JavaWeb\img\image-20200301100857946.png)
 
 2 解压缩
 
