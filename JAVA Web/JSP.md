@@ -71,7 +71,7 @@ JSP 本质上就是Servlet，JSP主要负责与用户进行交互，将最终的
 
 ```
 
-![image-20200303154640612](E:\笔记\img\image-20200303154640612.png)
+![image-20200303154640612](https://github.com/Em-yang/JavaWeb/blob/master/img/image-20200303154640612.png)
 
 
 
