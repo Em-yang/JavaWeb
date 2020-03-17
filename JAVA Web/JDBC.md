@@ -2,7 +2,7 @@
 
 Java DataBase Connectivity  是一个独立于特定数据库的管理系统，通用的SQL数据库存取和操作的公共接口，定义了一组接口，为访问不同的数据库提供了统一的接口
 
-![image-20200310201658336](E:\笔记\img\image-20200310201658336.png)
+![image-20200310201658336](https://github.com/Em-yang/JavaWeb/blob/master/img/image-20200310201658336.png)
 
 
 
@@ -13,7 +13,7 @@ JDBC接口包括两个层面：
 * 面向应用的API，供程序员使用
 * 面向数据库的API,供厂商开发数据库的驱动程序
 
-![image-20200310202319287](E:\笔记\img\image-20200310202319287.png)
+![image-20200310202319287](https://github.com/Em-yang/JavaWeb/blob/master/img/image-20200310202319287.png)
 
 
 
