@@ -107,7 +107,7 @@ public class TestServlet extends HttpServlet {
 
 ### AJAX原理
 
-![image-20200310103203654](E:\笔记\img\image-20200310103203654.png)
+![image-20200310103203654](https://github.com/Em-yang/JavaWeb/blob/master/img/image-20200310103203654.png)
 
 
 
