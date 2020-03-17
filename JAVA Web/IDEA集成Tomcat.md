@@ -30,28 +30,28 @@ Web服务器：tomcat、JBoss、Webblogic、Jetty
 
 1、创建Java Web工程
 
-![image-20200301102047649](E:\笔记\img\image-20200301102047649.png)
+![image-20200301102047649](https://github.com/Em-yang/JavaWeb/blob/master/img/image-20200301102047649.png)
 
-![image-20200301102216395](E:\笔记\img\image-20200301102216395.png)
+![image-20200301102216395](https://github.com/Em-yang/JavaWeb/blob/master/img/image-20200301102216395.png)
 
 3、IDEA中配置tomcat
 
-![image-20200301102824518](E:\笔记\img\image-20200301102824518.png)
+![image-20200301102824518](https://github.com/Em-yang/JavaWeb/blob/master/img/image-20200301102824518.png)
 
-![image-20200301102903813](E:\笔记\img\image-20200301102903813.png)
+![image-20200301102903813](https://github.com/Em-yang/JavaWeb/blob/master/img/image-20200301102903813.png)
 
-![image-20200301103032011](E:\笔记\img\image-20200301103032011.png)
+![image-20200301103032011](https://github.com/Em-yang/JavaWeb/blob/master/img/image-20200301103032011.png)
 
-![image-20200301103055396](E:\笔记\img\image-20200301103055396.png)
+![image-20200301103055396](https://github.com/Em-yang/JavaWeb/blob/master/img/image-20200301103055396.png)
 
 选择本地的tomcat路径即可
 
 4、把项目加入到tomcat中
 
-![image-20200301103514813](E:\笔记\img\image-20200301103514813.png)
+![image-20200301103514813](https://github.com/Em-yang/JavaWeb/blob/master/img/image-20200301103514813.png)
 
 热部署
 
-![image-20200301103744106](E:\笔记\img\image-20200301103744106.png)
+![image-20200301103744106](https://github.com/Em-yang/JavaWeb/blob/master/img/image-20200301103744106.png)
 
 
