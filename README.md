@@ -1,3 +1,2 @@
 # Summary
-笔记
-ĴavaWeb的基础和一个项目
+JavaWeb的笔记和一个项目
